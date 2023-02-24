@@ -1,3 +1,7 @@
+## Модуль 2. TypeScript / Урок 10. Итоговый / Задание #2
+
 Запуск:
-**npm i**
-**npm start**
+```shell
+$ npm i
+$ npm start
+```
