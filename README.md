@@ -1,1 +1,3 @@
-Запуск - **npm start**
+Запуск:
+**npm i**
+**npm start**
