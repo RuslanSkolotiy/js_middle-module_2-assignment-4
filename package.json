@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx nodemon"
+},
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
